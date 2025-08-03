@@ -94,3 +94,7 @@
 러닝을 좋아하는 사람들이 모여 자신의 기록을 남기고, 서로의 순간을 공유하며 동기부여 받고, 함께 성장하는 플랫폼을 목표로 합니다.
 
 한국 사용자에 최적화된 서비스와 SNS 연동, 실시간 소통 기능을 통해 더욱 풍부하고 활기찬 러닝 문화를 만들어가고자 합니다.
+
+---
+
+<img width="1452" height="934" alt="Running Moments" src="https://github.com/user-attachments/assets/50baf2bc-48fa-40ec-9b26-d62570a64e42" />
